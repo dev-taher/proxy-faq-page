@@ -49,9 +49,9 @@ body{
 .navbar-light .navbar-nav .mini-nav:hover{
     color: black !important;
 }
-/* Mini Header Starts Here */
+/* Mini Header Ends Here */
 
-/* Top-header start here */
+/* Top-header starts here */
 .top-header{
     display: flex;
     justify-content: space-between;
@@ -161,6 +161,7 @@ body{
 .btn.btn-outline-success{
     border-radius: 0 4px 4px 0;
 }
+/* Top-header Ends here */
 
 /* Header Starts Here */
 a.nav-link:first-child {
@@ -234,7 +235,7 @@ a.nav-link:first-child {
     transition: all 0.3s linear;
 }
 .breadcrumbs-area .breadcrumb li a:hover{
-    color: black;
+    color: #2C742F;
 }
 .breadcrumbs-area .breadcrumb li .home svg{
     width: 20px;
@@ -249,7 +250,7 @@ a.nav-link:first-child {
 .breadcrumb-item+.breadcrumb-item::before{
     display: none;
 }
-/* Breadcumbs Starts Here */
+/* Breadcumbs Ends Here */
 
 /* Banner Starts Here */
 .banner-area{
@@ -418,11 +419,6 @@ a.nav-link:first-child {
     background-color: #e4405f;
     color: #FFFFFF;
 }
-
-
-
-
-
 /* Newslater Ends here */
 
 /* Footer Starts here */
@@ -436,8 +432,6 @@ a.nav-link:first-child {
     font-size: 14px;
     line-height: 150%;
     margin: 16px 0; 
-    /* width: 336px;
-    height: 63px;   */
 }
 .footer .btn:focus{
     border: none !important; 

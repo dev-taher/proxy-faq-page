@@ -7,8 +7,33 @@
 
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1200px) {
-
-
+    .minimal-footer{
+        padding: 0 0px;
+    }
+    .top-header{
+        padding: 0 0;
+    }
+    .header{
+        padding: 0 0;
+    }
+    .menu-bar{
+        padding: 20 0px;
+    }
+    .breadcrumbs-area{
+        padding: 0 0;
+    }
+    .banner-area{
+        padding: 0 0;
+    }
+    .newslater{
+        padding: 0 0;
+    }
+    .footer{
+        padding: 60px 0;
+    }
+    .minimal-footer{
+        padding: 0 0;
+    }
 }
 
  
